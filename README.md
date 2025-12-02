@@ -1,4 +1,4 @@
-# 🏦 Système de Gestion Bancaire
+# 🏦 BANKTERM
 
 Un système bancaire complet développé en Java avec Maven, permettant la création de comptes, la gestion des transactions et la persistance des données.
 
